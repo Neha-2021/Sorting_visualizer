@@ -2,7 +2,7 @@
     margin: 0px;
     padding: 0px;
     font-family: 'Times New Roman';
-    font-size: large;
+    font-size: medium;
     font-weight: bold;
   }
   
@@ -144,7 +144,7 @@
   }
   
   section #Info_Cont1 h3 {
-    font-size: 15px;  }
+    font-size: 20px;  }
   
   section #array_container {
     display: -webkit-box;
@@ -159,7 +159,7 @@
   }
   
   section #Info_Cont2 h3 {
-    font-size: 15px;
+    font-size: 20px;
   }
   
   .hide {
