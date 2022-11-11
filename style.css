@@ -140,12 +140,11 @@
   }
   
   section #Info_Cont1 {
-    padding: 20% 10%;
+    padding: 10% 10%;
   }
   
   section #Info_Cont1 h3 {
-    text-decoration: underline;
-  }
+    font-size: 15px;  }
   
   section #array_container {
     display: -webkit-box;
@@ -156,11 +155,11 @@
   }
   
   section #Info_Cont2 {
-    padding: 20% 10%;
+    padding: 10% 10%;
   }
   
   section #Info_Cont2 h3 {
-    text-decoration: underline;
+    font-size: 15px;
   }
   
   .hide {
